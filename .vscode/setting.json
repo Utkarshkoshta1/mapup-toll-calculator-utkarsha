@@ -1,0 +1,43 @@
+{
+    "workbench.colorTheme": "Monokai Pro (Filter Machine)",
+    "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "aws.codeWhisperer.includeSuggestionsWithCodeReferences": false,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "onFocusChange",
+    "editor.codeActionsOnSave": {
+    
+        "source.organizeImports": true,
+        "source.fixAll.eslint": true,
+        "source.fixAll": true,
+        "source.fixAll.stylelint": true,
+        "source.fixAll.markdownlint": true,
+        "source.fixAll.prettier": true,
+        "source.fixAll.javascript": true,
+        "source.fixAll.json": true,
+        "source.fixAll.css": true,
+        "source.fixAll.html": true,
+        "source.fixAll.scss": true,
+        "source.fixAll.js": true,
+        "source.fixAll.jsx": true
+    },
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "git.ignoreRebaseWarning": true,
+    "window.zoomLevel": -1,
+    "git.confirmSync": false
+}
